@@ -1,5 +1,7 @@
 # FitnessTracker
 
+This application is made while following a tutorial for Angular + RxJs + NgRx + Angular Material + Firebase.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
 ## Development server
