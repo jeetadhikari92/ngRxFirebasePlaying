@@ -1,6 +1,7 @@
 # FitnessTracker
 
 This application is made while following a tutorial for Angular + RxJs + NgRx + Angular Material + Firebase.
+Running App can be found here [https://ng-fitness-tracker-92b15.firebaseapp.com](https://ng-fitness-tracker-92b15.firebaseapp.com/login)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
